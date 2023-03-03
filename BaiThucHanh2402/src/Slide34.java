@@ -5,11 +5,11 @@ public class Slide34 {
         //gia pt bac 2 a, b, c, x1, x2, delta
         Scanner sc = new Scanner(System.in);
         double a, b, c, x1, x2, delta;
-        System.out.println("nha a:");
+        System.out.println("nhap a:");
         a = sc.nextInt();
-        System.out.println("nha b:");
+        System.out.println("nhap b:");
         b = sc.nextInt();
-        System.out.println("nha c:");
+        System.out.println("nhap c:");
         c = sc.nextInt();
         //pt bac 2 ax^2 + bx + c = 0
         if(a == 0){
