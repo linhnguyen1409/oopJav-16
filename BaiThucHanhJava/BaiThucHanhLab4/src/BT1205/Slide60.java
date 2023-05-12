@@ -1,9 +1,9 @@
-package BT2804;
+package BT1205;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class LinkHashSetExp1 {
+public class Slide60 {
     public static void main(String[] args) {
         Set<String> linkedHashSet = new LinkedHashSet<String>();
         linkedHashSet.add("Java");

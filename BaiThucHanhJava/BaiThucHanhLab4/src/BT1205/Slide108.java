@@ -1,9 +1,9 @@
-package BT2804;
+package BT1205;
 import java.util.TreeMap;
 import java.util.Map;
 import java.util.Set;
 
-public class TreeMap2 {
+public class Slide108 {
     public static void main(String[] args) {
         TreeMap<Integer, Double> treeMap = new TreeMap<>();
         treeMap.put(1, 9d);

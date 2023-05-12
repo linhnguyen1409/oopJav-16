@@ -1,9 +1,9 @@
-package BT2804;
+package BT1205;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class HashMap {
+public class Silde86 {
     public static void main(String[] args) {
         HashMap<String, String> hashMap = new HashMap<>();
         hashMap.put("CSLT" , "Co so lap trinh");

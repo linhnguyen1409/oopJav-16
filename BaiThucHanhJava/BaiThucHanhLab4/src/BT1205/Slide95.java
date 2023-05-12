@@ -1,9 +1,9 @@
-package BT2804;
+package BT1205;
 
 import java.util.LinkedHashMap;
 import java.util.Set;
 
-public class LinkedHashMapExample1 {
+public class Slide95 {
     public static void main(String[] args) {
         LinkedHashMap<Integer,String> linkedHashMap = new LinkedHashMap<Integer,String>();
         linkedHashMap.put(1, "Java");

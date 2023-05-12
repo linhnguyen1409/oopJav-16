@@ -1,9 +1,10 @@
-package BT2804;
-import java.util.TreeMap;
+package BT1205;
 import java.util.Set;
 import java.util.Map.Entry;
 
-public class TreeMap {
+import BT2804.character;
+
+public class Slide106 {
     public static void main(String[] args) {
         TreeMap<Integer, character> treeMap = new TreeMap<>();
         treeMap.put(6, 'A');

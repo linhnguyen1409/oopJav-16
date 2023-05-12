@@ -1,9 +1,9 @@
-package BT2804;
+package BT1205;
 
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class TreeSetExp1 {
+public class Slide69 {
     public static void main(String[] args) {
         int number ;
         TreeSet<Integer> treeSetInteger = new TreeSet<>();
